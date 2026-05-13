@@ -36,7 +36,18 @@ Katherine foi peça-chave em marcos históricos da exploração espacial:
 ### Curiosidades
 *   **Estrelas Além do Tempo:** Sua história foi o foco principal do livro e filme indicado ao Oscar *Hidden Figures* (Estrelas Além do Tempo).
 *   **Medalha da Liberdade:** Em 2015, recebeu do presidente Barack Obama a Medalha Presidencial da Liberdade, a maior honraria civil dos EUA.
-*   **Amante de Números:** Ela costumava dizer que "contava tudo": os passos que dava, os pratos que lavava e até os degraus da igreja.
+
+---
+
+## 💻 O que aprendi sobre Git e GitHub
+
+Durante o desenvolvimento deste projeto, explorei ferramentas essenciais para o controle de versão. Aqui estão os principais comandos Git utilizados e suas funções:
+
+*   `git init`: Inicializa um novo repositório Git em um diretório local.
+*   `git clone`: Cria uma cópia local de um repositório que já existe remotamente (como no GitHub).
+*   `git add .`: Prepara as alterações realizadas nos arquivos para serem incluídas no próximo "pacote" de envio (staging area).
+*   `git commit -m "mensagem"`: Registra permanentemente as alterações preparadas, criando um ponto na história do projeto com uma mensagem descritiva.
+*   `git push`: Envia todos os commits realizados no computador local para o repositório remoto no GitHub.
 
 ---
 
